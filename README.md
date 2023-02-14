@@ -7,7 +7,7 @@
 ###
 
 <h4 align="left">🌱I'm currently learning Computer Science and Software Engineering <br>🌱I'm currently learning at IJSE.<br>💬 What's App - +94 761950062<br>📫 Contact me through - pahant24@gmail.com</h4>
-This site was built using [IJSE](https://www.ijse.lk/)
+
 ###
 
 <h5 align="left">*Activities</h5>
